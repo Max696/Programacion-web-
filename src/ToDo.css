@@ -1,0 +1,26 @@
+.app {
+    padding: 30px;
+    background-color: rgb(255, 251, 240);
+  }
+  .containerT {
+    font-size: 28px;
+    color: rgb(206, 205, 205);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image:  url("./try.jpg");
+    background-size: auto;
+    background-repeat: no-repeat; 
+    background-position: center;
+    min-height: 100%;
+    
+  }
+  .todo {
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+  }
+
+  

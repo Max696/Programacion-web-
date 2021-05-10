@@ -18,7 +18,7 @@ body, html, #root, .app, .container {
     background-position: center;
     min-height: 100%;
     
-  }
+  } 
   
   .loginForm {
    box-sizing: border-box;
